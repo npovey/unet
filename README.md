@@ -1,4 +1,4 @@
-# U-Net-Denoiser
+### U-Net-Denoiser
 Solves CT image denoising in TensorFlow
 
 Given input and target datasets both of 512 * 512 CT images, this U-Net learns the pattern of streaking noise and removes it to produce a cleaned output CT image.
