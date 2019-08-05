@@ -52,7 +52,7 @@ image below is taken from the paper above
 
 #### Results
 
-| low dose image | Avg PSNR | Avg SSIM |
+| Low dose image | Avg PSNR | Avg SSIM |
 | -------------- | -------- | -------- |
 | sparseview_60  | 31.18    | 0.8497   |
 | sparseview_90  | 34.38    | 0.8888   |
