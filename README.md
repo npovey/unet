@@ -1,3 +1,4 @@
+This version doesn't use Keras API
 ### U-Net-Denoiser
 Solves CT image denoising in TensorFlow
 
